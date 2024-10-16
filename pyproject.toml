@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-ricing"
+description = "ComfyUI custom user.css and some script stuff. mainly for web interface."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/jmkl/ComfyUI-ricing"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ricing"
+Icon = ""
